@@ -8,9 +8,9 @@
   <artifactId>javatemplate</artifactId>
   <version>0.1.0</version>
 
-  <name>javatemplate</name>
-  <description>A simple Java/Maven template.</description>
-  <url>https://github.com/stscoundrel/java-template</url>
+  <name>old-norwegian-dictionary</name>
+  <description>Old Norwegian to Norwegian Dictionary for Kotlin / Java. From "Dictionary of the Old Norwegian Language".</description>
+  <url>https://github.com/stscoundrel/old-norwegian-dictionary-kt</url>
   
   <developers>
     <developer>
@@ -25,9 +25,9 @@
   </developers>
   
   <scm>
-    <connection>scm:git:git://github.com/stscoundrel/java-template.git</connection>
-    <developerConnection>scm:git:ssh://github.com:stscoundrel/java-template.git</developerConnection>
-    <url>http://github.com/stscoundrel/java-template/tree/master</url>
+    <connection>scm:git:git://github.com/stscoundrel/old-norwegian-dictionary-kt.git</connection>
+    <developerConnection>scm:git:ssh://github.com:stscoundrel/old-norwegian-dictionary-kt.git</developerConnection>
+    <url>http://github.com/stscoundrel/old-norwegian-dictionary-kt/tree/master</url>
   </scm>
 
   <licenses>
