@@ -13,7 +13,7 @@ As Maven dependency.
 <dependency>
   <groupId>io.github.stscoundrel</groupId>
   <artifactId>oldnorwegian</artifactId>
-  <version>0.1.0</version> <!-- Note! Check latest release number -->
+  <version>0.1.1</version> <!-- Note! Check latest release number -->
 </dependency>
 ```
 
