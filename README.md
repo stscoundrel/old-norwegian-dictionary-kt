@@ -33,7 +33,7 @@ val dictionary = OldNorwegianDictionary()
 val entries = dictionary.getEntries()
 
 // Dictionaries return entries that consist of headword, part of speech and definition.
-println(entries[25000].headword)           // náðuliga
+println(entries[25000].headword)       // náðuliga
 println(entries[25000].partOfSpeech)   // adv
 println(entries[25000].definition)     // náðuliga, adv.  1)  i 
 
