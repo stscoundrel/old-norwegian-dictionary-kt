@@ -1,4 +1,4 @@
-package io.github.stscoundrel.javatemplate;
+package io.github.stscoundrel.oldnorwegian;
 
 public class App 
 {

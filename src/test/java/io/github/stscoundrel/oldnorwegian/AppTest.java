@@ -1,4 +1,4 @@
-package io.github.stscoundrel.javatemplate;
+package io.github.stscoundrel.oldnorwegian;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
