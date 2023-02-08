@@ -6,7 +6,7 @@
 
   <groupId>io.github.stscoundrel</groupId>
   <artifactId>oldnorwegian</artifactId>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
 
   <name>old-norwegian-dictionary</name>
   <description>Old Norwegian to Norwegian Dictionary for Kotlin / Java. From "Dictionary of the Old Norwegian Language".</description>
