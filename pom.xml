@@ -42,9 +42,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
-    <kotlin.version>1.9.10</kotlin.version>
+    <kotlin.version>1.9.20</kotlin.version>
     <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
-    <dokka.version>1.9.0</dokka.version>
+    <dokka.version>1.9.10</dokka.version>
   </properties>
 
   <dependencies>
@@ -107,7 +107,7 @@
       </plugin>
       <plugin>
         <artifactId>maven-clean-plugin</artifactId>
-        <version>3.3.1</version>
+        <version>3.3.2</version>
       </plugin>
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
@@ -127,7 +127,7 @@
       </plugin>
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
-        <version>3.1.2</version>
+        <version>3.2.1</version>
       </plugin>
       <plugin>
         <artifactId>maven-jar-plugin</artifactId>
