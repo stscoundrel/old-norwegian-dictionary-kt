@@ -32,8 +32,11 @@ class OldNorwegianDictionaryTest {
             result[25000].definition
         )
 
-        assertEquals("þyrnir", result[42000].headword);
-        assertEquals("m", result[42000].partOfSpeech);
-        assertEquals("þyrnir, m. Tjørn, Tornebusk. Stj. 39611;Hom. 10218; Post. 75034; Klm. 54615;Mar. 3378. 10351.", result[42000].definition);
+        assertEquals("þyrnir", result[42000].headword)
+        assertEquals("m", result[42000].partOfSpeech)
+        assertEquals(
+            "þyrnir, m. Tjørn, Tornebusk. Stj. 39611;Hom. 10218; Post. 75034; Klm. 54615;Mar. 3378. 10351.",
+            result[42000].definition
+        )
     }
 }

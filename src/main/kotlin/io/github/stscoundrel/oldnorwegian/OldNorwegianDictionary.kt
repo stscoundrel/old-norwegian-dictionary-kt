@@ -1,7 +1,7 @@
 package io.github.stscoundrel.oldnorwegian
 
-import java.io.InputStreamReader
 import com.google.gson.Gson
+import java.io.InputStreamReader
 
 class OldNorwegianDictionary {
     private val DICTIONARY_RESOURCE_PATH = "/old-norwegian-dictionary.json"
