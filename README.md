@@ -2,7 +2,7 @@
 
 Old Norwegian/Norse Dictionary for Kotlin / Java. The dictionary consists of 40 000+ Old Norse words with Norwegian translations.
 
-Based on "Dictionary of the Old Norwegian Language".
+Based on "Dictionary of the Old Norwegian Language". Data source build from [Old Norwegian Dictionary Builder](https://github.com/stscoundrel/old-norwegian-dictionary-builder)
 
 
 ## Install
